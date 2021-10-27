@@ -1,0 +1,29 @@
+name: "Metal Smelter"
+type: GenericSmelter
+description: It uses lead, copper, titanium and coal to Metal.
+health: 150
+itemCapacity: 80
+outputItem: Metal/6
+size: 2
+hasPower: true
+hasItems: true
+craftTime: 200.5
+consumes: {
+    power: 3.5
+    items: {
+        items: [
+            copper/18
+            lead/18
+            titanium/18
+            coal/9
+        ]
+    }
+}
+requirements: [
+    titanium/120
+    copper/150
+    lead/100
+    silicon/75
+]
+category: crafting
+research: silicon-smelter

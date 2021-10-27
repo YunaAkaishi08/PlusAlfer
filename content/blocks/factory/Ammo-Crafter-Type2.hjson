@@ -1,0 +1,23 @@
+name: Armord Metal Ammo Crafter
+type: GenericCrafter
+description: Ammo maker.
+size: 2
+health: 2500
+hasPower: true
+outputItem: Ammo-Type2/4
+itemCapacity: 48
+craftTimme: 140
+consumes: {
+    power: 6
+    items: {
+        items: [
+            Armord-Metal/12
+        ]
+    }
+}
+requirements: [
+    Metal/200
+    Armord-Metal/200
+]
+category: crafting
+research: Ammo-Crafter-Type1

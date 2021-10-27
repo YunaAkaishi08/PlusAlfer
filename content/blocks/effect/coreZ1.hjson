@@ -1,0 +1,14 @@
+name: Metal Core
+type: CoreBlock
+description: A low durable value core.
+size: 4
+health: 25000
+itemCapacity: 7000
+unitCapModifier: 15
+unitType: alpha
+thrusterLength: 12
+requirements: [
+    Metal/200
+]
+category: effect
+research: core-nucleus

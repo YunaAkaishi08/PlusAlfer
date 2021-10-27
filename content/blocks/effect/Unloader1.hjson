@@ -1,0 +1,13 @@
+name: Metal Unloader
+type: Unloader
+description: Unload from valt.
+health: 1500
+size: 1
+speed: 3
+buildCostMultiplier: 0.35
+requirements: [
+  Metal/35
+  titanium/25
+]
+category: effect
+research: Metal-Smelter

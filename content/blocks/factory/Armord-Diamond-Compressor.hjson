@@ -1,0 +1,26 @@
+type: GenericSmelter
+name: Diamond-Presser
+description: It makes a Diamond.
+size: 2
+health: 450
+itemCapacity: 65
+hasPower: true
+hasItem: true
+outputItem: Armord-Diamond/4
+craftTime: 300
+consumes: {
+    power: 20
+    items: {
+        items: [
+            graphite/20
+            coal/80
+        ]
+    }
+}
+requirements: [
+    Metal/75
+    Armord-Metal/90
+    titanium/60
+]
+category: crafting
+research: Armord-Metal-Smelter

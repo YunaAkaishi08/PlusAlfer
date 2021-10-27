@@ -1,0 +1,10 @@
+name: "Large Armord Metal Wall"
+type: Wall
+description: It just a armord wall.
+size: 2
+health: 4000
+requirements: [
+    Armord-Metal/32
+]
+category: defense
+research: Armord-Metal-Wall

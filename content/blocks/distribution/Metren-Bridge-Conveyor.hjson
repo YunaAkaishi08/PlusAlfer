@@ -1,0 +1,16 @@
+name: Metren Bridge Conveyor
+type: ItemBridge
+description: A metren bridge conveyor.
+health: 1000000
+solid: true
+configurable: true
+bufferCapacity: 50
+range: 35
+requirements: [
+  Metren/8
+  Metal/6
+  titanium/4
+]
+category: distribution
+speed: 0.2
+research: Armord-Metal-Conveyor

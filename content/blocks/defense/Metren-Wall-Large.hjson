@@ -1,0 +1,10 @@
+name: "Large Metren Wall"
+type: Wall
+description: It just harder wall.
+size: 2
+health: 8000000
+requirements: [
+    Metren/40
+]
+category: defense
+research: Metren-Wall

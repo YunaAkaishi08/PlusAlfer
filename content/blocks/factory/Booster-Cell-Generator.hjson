@@ -1,0 +1,23 @@
+name: Booster Cell Generator
+type: GenericCrafter
+description: Make a Booster cell.
+size: 2
+health: 2500
+hasPower: true
+outputItem: Booster-Cell/2
+itemCapacity: 10
+craftTimme: 120
+consumes: {
+    power: 5.5
+    items: {
+        items: [
+            Armord-Metal/10
+        ]
+    }
+}
+requirements: [
+    Metal/200
+    Armord-Metal/200
+]
+category: crafting
+research: Armord-Metal-Smelter

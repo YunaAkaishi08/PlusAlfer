@@ -1,0 +1,15 @@
+name: Armord Metal Core
+type: CoreBlock
+description: A medium durable value core.
+size: 5
+health: 250000
+itemCapacity: 95000
+unitCapModifier: 20
+unitType: beta
+thrusterLength: 13
+requirements: [
+    Armord-Metal/200
+    Metal/125
+]
+category: effect
+research: coreZ1

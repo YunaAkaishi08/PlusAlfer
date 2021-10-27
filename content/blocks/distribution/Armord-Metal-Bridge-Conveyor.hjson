@@ -1,0 +1,15 @@
+name: Armord Metal Bridge Conveyor
+type: ItemBridge
+description: A metal armord bridge conveyor.
+health: 10000
+configurable: true
+bufferCapacity: 50
+range: 7
+requirements: [
+  Armord-Metal/6
+  Metal/4
+  titanium/2
+]
+category: distribution
+speed: 0.2
+research: Metal-Bridge-Conveyor

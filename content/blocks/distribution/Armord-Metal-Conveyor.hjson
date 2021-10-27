@@ -1,0 +1,13 @@
+name: Armord Metal Conveyor
+type: ArmoredConveyor
+description: A metal armord conveyor.
+health: 2500
+solid: true
+requirements: [
+  Armord-Metal/4
+  Metal/2
+  titanium/1
+]
+category: distribution
+speed: 0.06
+research: Metal-Conveyor

@@ -1,0 +1,11 @@
+name: Metren Conveyor
+type: Conveyor
+description: A metal armord conveyor.
+health: 250000
+requirements: [
+  Metren/4
+  Metal/2
+]
+category: distribution
+speed: 0.08
+research: Armord-Metal-Conveyor

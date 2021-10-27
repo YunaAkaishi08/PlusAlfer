@@ -1,0 +1,14 @@
+name: Metal Conveyor
+type: ItemBridge
+description: A metal bridge conveyor.
+health: 1000
+configurable: true
+bufferCapacity: 50
+range: 7
+requirements: [
+  Metal/6
+  titanium/4
+]
+category: distribution
+speed: 0.2
+research: Metal-Conveyor

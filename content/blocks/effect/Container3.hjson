@@ -1,0 +1,15 @@
+name: Metren Container
+type: vault
+description: Metren Container.
+size: 5
+health: 25000
+itemCapacity: 75000000
+hasItems: true
+buildCostMultiplier: 1.3
+requirements: [
+    Metren/500
+    Metal/350
+    Armord-Glass/300
+]
+category: effect
+research: Container2

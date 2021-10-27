@@ -1,0 +1,30 @@
+name: Armord Mender
+type: MendProjector
+description: Mend projector.
+size: 2
+health:7500
+hasPower: true
+buildCostMultiplir: 1
+healPercent: 5
+phaseBoost: 8
+range: 160
+phaseRangeBoost: 160
+reload: 250
+itemCapacity: 4
+consumes: {
+    power: 5
+    items: {
+        items: [
+            Booster-Cell/1
+        ]
+        booster: true
+        optional: true
+    }
+}
+requirements: [
+    Metal/150
+    Armord-Metal/150
+    Mend-Core/1
+]
+category: effect
+research: Mend-Core-Generator

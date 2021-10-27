@@ -1,0 +1,26 @@
+name: "[grey]Armord Glass[] Smelter"
+type: GenericSmelter
+description: It generate an ArmordGlass.
+health: 450
+size: 2
+itemCapacity: 90
+hasPower: true
+hasItems: true
+outputItem: Armord-Glass/4
+ceaftTime: 450
+consumes: {
+    power: 3.57
+    items: {
+        items: [
+            Armord-Metal/4
+            sand/16
+        ]
+    }
+}
+requirements: [
+    Armord-Metal/80
+    Metal/80
+    titanium/80
+]
+category: crafting
+research: Armord-Metal-Smelter

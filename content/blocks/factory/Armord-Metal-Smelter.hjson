@@ -1,0 +1,26 @@
+name: "[grey]Armord Metal[] Smelter"
+type: GenericSmelter
+description: It generate an ArmordMetal.
+health: 450
+size: 2
+itemCapacity: 90
+hasPower: true
+hasItems: true
+outputItem: Armord-Metal/3
+ceaftTime: 500
+consumes: {
+    power: 3.57
+    items: {
+        items: [
+            Metal/12
+            coal/6
+        ]
+    }
+}
+requirements: [
+    Metal/80
+    titanium/80
+    copper/160
+]
+category: crafting
+research: Metal-Smelter

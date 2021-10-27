@@ -1,0 +1,10 @@
+name: "Armord Metal Wall"
+type: Wall
+description: It just a armord wall.
+size: 1
+health: 10000
+requirements: [
+    Armord-Metal/8
+]
+category: defense
+research: Armord-Metal-Smelter

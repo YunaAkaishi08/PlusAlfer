@@ -1,0 +1,12 @@
+name: Metal Conveyor
+type: Conveyor
+description: A metal conveyor.
+health: 250
+solid: true
+requirements: [
+  Metal/4
+  titanium/2
+]
+category: distribution
+speed: 0.06
+research: Metal-Smelter

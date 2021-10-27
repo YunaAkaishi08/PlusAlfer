@@ -1,0 +1,10 @@
+name: "Metal Wall"
+type: Wall
+description: It just a wall.
+size: 1
+health: 1000
+requirements: [
+    Metal/8
+]
+category: defense
+research: titaniumWallLarge

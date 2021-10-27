@@ -1,0 +1,28 @@
+name: Cooling water Mixer
+type: GenericSmelter
+description: Mixing cryofluid and Metren to Cooling Water.
+size: 3
+health: 1500
+itemCapacity: 24
+liquidCapacity: 64
+hasPower: true
+outputLiquid: Cooling-Water/30
+consumes: {
+    power: 10
+    items: {
+        items: [
+            Metren/40
+        ]
+    }
+    liquid: {
+        liquid: cryofluid
+        ammount: 120
+    }
+}
+requirements:[
+    Metren/450
+    Armord-Glass/250
+    Metal/350
+]
+category: crafting
+research: Metren-Smelter

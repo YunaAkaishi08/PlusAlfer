@@ -1,0 +1,10 @@
+name: "Large Metal Wall"
+type: Wall
+description: It just a wall.
+size: 2
+health: 3500
+requirements: [
+    Metal/32
+]
+category: defense
+research: Metal-Wall

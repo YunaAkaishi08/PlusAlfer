@@ -1,0 +1,22 @@
+name: Metal Ammo Crafter
+type: GenericCrafter
+description: Ammo maker.
+size: 2
+health: 250
+hasPower: true
+outputItem: Ammo-Type1/4
+itemCapacity: 48
+craftTimme: 140
+consumes: {
+    power: 6
+    items: {
+        items: [
+            Metal/12
+        ]
+    }
+}
+requirements: [
+    Metal/200
+]
+category: crafting
+research: Metal-Smelter

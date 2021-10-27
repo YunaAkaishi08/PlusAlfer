@@ -1,0 +1,10 @@
+name: "Metren Wall"
+type: Wall
+description: It just harder wall.
+size: 1
+health: 2000000
+requirements: [
+    Metren/8
+]
+category: defense
+research: Metren-Smelter

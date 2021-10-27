@@ -1,0 +1,14 @@
+name:  Metal Container
+type: StorageBlock
+description: Metal Container.
+size: 2
+health: 2500
+itemCapacity: 75000
+hasItems: true
+buildCostMultiplier: 1.3
+requirements: [
+    Metal/350
+    Armord-Glass/300
+]
+category: effect
+research: Unloader1

@@ -1,0 +1,28 @@
+name: Metrender
+type: MendProjector
+description: Mend projector.
+size: 4
+health:25000
+hasPower: true
+buildCostMultiplir: 1
+healPercent: 100
+range: 8000
+reload: 75
+itemCapacity: 4
+useTime: 75
+consumes: {
+    power: 1000
+    items: {
+        items: [
+            Metrend-Cell/1
+        ]
+    }
+}
+requirements: [
+    Metren/500
+    Armord-Metal/300
+    Metal/300
+    Mend-Core/5
+]
+category: effect
+research: Mend-1

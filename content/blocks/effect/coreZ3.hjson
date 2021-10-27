@@ -1,0 +1,21 @@
+name: Metren Core
+type: CoreBlock
+description: A high durable value core.
+size: 6
+health: 50000000
+itemCapacity: 7850000
+unitCapModifier: 55
+unitType: gamma
+thrusterLength: 30
+healPercent: 5
+range: 24
+reload: 75
+useTime: 75
+requirements: [
+    Metren/200
+    Armord-Metal/125
+    Mend-Core/7
+    Metrend-Cell/2
+]
+category: effect
+research: coreZ2
