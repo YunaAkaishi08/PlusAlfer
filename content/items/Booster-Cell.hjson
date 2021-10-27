@@ -1,0 +1,5 @@
+name: Booster Cell
+type: resource
+description: Booster.
+cost: 1
+color: e6ff00

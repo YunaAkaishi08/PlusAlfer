@@ -1,0 +1,36 @@
+name: Metren Missile Turret
+type: ItemTurret
+description: It made by Metren.
+size: 4
+health: 650000
+range: 8000
+rotatespeed: 13
+reloadTime: 585
+cooldown: 5
+ammoPerShot: 1
+maxAmmo: 175
+ammoTypes: {
+    Missile-Type3: {
+        type: MissileBulletType
+        lifetime: 8000
+        speed: 1
+        trailColor: ff0000
+        frontColor: ef93b6
+        backColor: a0d8ef
+        weaveScale: 8000
+        damage: 5000
+        splashDamage: 5000
+        splashDamageRadius: 400
+        ammoMultiplier: 1
+        knockback: 5000
+        homingPower: 1
+        homingRange: 5000
+        collidesAir: true
+    }
+}
+requirements: [
+    Metren/750
+    Metal/600
+]
+category: turret
+research: Turret3-1

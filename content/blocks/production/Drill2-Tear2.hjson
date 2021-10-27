@@ -1,0 +1,17 @@
+name: "MidiumTear NomalDrill"
+type: Drill
+health: 450
+size: 2
+tier: 4
+haspower: true
+drillTime: 7.5
+consumes: {
+    power: 3
+}
+requirements: [
+    copper/10
+    lead/7
+    Armord-Metal/10
+]
+category: production
+research: Drill2-Tear1

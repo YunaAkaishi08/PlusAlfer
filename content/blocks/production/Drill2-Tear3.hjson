@@ -1,0 +1,18 @@
+name: "HighTear NomalDrill"
+type: Drill
+health: 1150
+size: 2
+tier: 9999
+targetable: false
+haspower: true
+drillTime: 7.5
+consumes: {
+    power: 4.5
+}
+requirements: [
+    copper/10
+    lead/7
+    Metren/10
+]
+category: production
+research: Drill2-Tear2

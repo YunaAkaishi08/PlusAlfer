@@ -1,0 +1,5 @@
+name: Mend Core
+type: resource
+description: Use fore MendProjector.
+cost: 1
+color: 55f97f

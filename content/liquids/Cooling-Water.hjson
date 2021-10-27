@@ -1,0 +1,8 @@
+name: Cooling Water
+description: Mixer in a Cryofluid and Metren.
+heatCapacity: 5
+temperature: -270
+viscosity: 0.000001
+color: a4ffff
+barColor: a4ffff
+lightColor: ceffff

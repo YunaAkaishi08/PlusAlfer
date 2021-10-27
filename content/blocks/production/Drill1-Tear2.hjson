@@ -1,0 +1,17 @@
+name: "MidiumTear MiniDrill"
+type: Drill
+health: 100
+size: 1
+tier: 4
+haspower: true
+drillTime: 7.5
+consumes: {
+    power: 1.5
+}
+requirements: [
+    copper/10
+    lead/7
+    Armord-Metal/10
+]
+category: production
+research: Drill1-Tear1

@@ -1,0 +1,14 @@
+name: "LowTear NomalDrill"
+type: Drill
+health: 200
+size: 2
+tier: 1
+haspower: false
+drillTime: 10
+requirements: [
+    copper/10
+    lead/7
+    Metal/10
+]
+category: production
+research: Drill1-Tear1

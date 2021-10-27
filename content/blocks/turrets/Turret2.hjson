@@ -1,0 +1,32 @@
+name: Armord Metal Turret
+type: ItemTurret
+description: It made by Armord Metal.
+size: 3
+health: 5000
+range: 1600
+rotatespeed: 50
+reloadTime: 5
+ammoPerShot: 1
+maxAmmo: 350
+ammoTypes: {
+    Ammo-Type1: {
+        type: BasicBulletType
+        lifetime: 999
+        hitShake: 0
+        damage: 50
+        speed: 125
+    }
+    Ammo-Type2: {
+        type: BasicBulletType
+        lifetime: 999
+        hitShake: 5
+        damage: 250
+        speed: 30
+    }
+}
+requirements: [
+    Armord-Metal/500
+    Metal/350
+]
+category: turret
+research: Turret1

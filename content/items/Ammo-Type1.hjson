@@ -1,0 +1,5 @@
+name: Metal Ammo
+type: resourse
+description: This ammo made by Metal.
+cost: 1
+color: c9caca

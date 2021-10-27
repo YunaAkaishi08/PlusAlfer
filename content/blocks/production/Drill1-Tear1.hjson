@@ -1,0 +1,14 @@
+name: "LowTear MiniDrill"
+type: Drill
+health: 35
+size: 1
+tier: 1
+haspower: false
+drillTime: 10
+requirements: [
+    copper/5
+    lead/5
+    Metal/6
+]
+category: production
+research: Metal-Smelter

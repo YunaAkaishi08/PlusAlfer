@@ -1,0 +1,27 @@
+name: "Metren Smelter"
+type: GenericSmelter
+description: It generate a Metren.
+health: 4000
+size: 3
+itemCapacity: 150
+hasPower: true
+hasItems: true
+outputItem: Metren/4
+ceaftTime: 1200
+consumes: {
+    power: 8.75
+    items: {
+        items: [
+            Metal/40
+            Armord-Metal/40
+            Armord-Diamond/20
+        ]
+    }
+}
+requirements: [
+    Armord-Metal/250
+    Metal/250
+    titanium/250
+]
+category: crafting
+research: Armord-Metal-Smelter

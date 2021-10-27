@@ -1,0 +1,7 @@
+name: Metren Missile
+type: resource
+description: "This missile made by Metren. Be careful to use."
+explosiveness: 500000
+radioactivity: 500000
+cost: 1
+color: 4f7e81

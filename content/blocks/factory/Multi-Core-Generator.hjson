@@ -1,0 +1,25 @@
+name: Multi Core Generator
+type: GenericSmelter
+description: It use for MultiFactory.
+size: 3
+health: 2500
+hasPower: true
+outputItem: Multi-Core/2
+itemCapacity: 10
+craftTimme: 120
+consumes: {
+    power: 25
+    items: {
+        items: [
+            Armord-Metal/10
+            Armord-Diamond/5
+        ]
+    }
+}
+requirements: [
+    Metal/300
+    Armord-Metal/300
+    Armord-Glass/150
+]
+category: crafting
+research: Armord-Metal-Smelter

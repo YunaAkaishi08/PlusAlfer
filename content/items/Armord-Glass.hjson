@@ -1,0 +1,5 @@
+name: "Armord Glass"
+type: material
+description: It just armord glass.
+cost: 2.75
+color: bbbbbb

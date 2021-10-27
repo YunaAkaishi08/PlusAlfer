@@ -1,0 +1,5 @@
+name: Multi Core
+type: resource
+description: Use fore MultiFactory.
+cost: 1
+color: ffdc62

@@ -1,0 +1,5 @@
+name: "[grey]Metal[]"
+type: material
+description: It's a metal.
+cost: 2
+color: a4a4a4

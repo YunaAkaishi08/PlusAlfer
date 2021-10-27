@@ -1,0 +1,5 @@
+name: Metrend Cell
+type: resource
+description: Use fore Metrender.
+cost: 1
+color: 55f97f

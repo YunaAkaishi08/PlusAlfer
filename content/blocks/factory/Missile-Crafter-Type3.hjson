@@ -1,0 +1,24 @@
+name: Metren Missile Crafter
+type: GenericCrafter
+description: Missile maker.
+size: 2
+health: 25000
+hasPower: true
+outputItem: Missile-Type3/4
+itemCapacity: 48
+craftTimme: 140
+consumes: {
+    power: 2.5
+    items: {
+        items: [
+            Metren/12
+        ]
+    }
+}
+requirements: [
+    Metal/200
+    Armord-Metal/200
+    Metren/200
+]
+category: crafting
+research: Ammo-Crafter-Type3

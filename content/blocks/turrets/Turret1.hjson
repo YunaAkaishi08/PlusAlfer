@@ -1,0 +1,25 @@
+name: Metal Turret
+type: ItemTurret
+description: It made by Metren.
+size: 2
+health: 1000
+range: 800
+rotatespeed: 50
+reloadTime: 5
+ammoPerShot: 1
+maxAmmo: 500
+ammoTypes: {
+    Ammo-Type1: {
+        type: BasicBulletType
+        lifetime: 999
+        hitShake: 0
+        damage: 50
+        speed: 125
+    }
+}
+requirements: [
+    Metal/500
+    titanium/250
+]
+category: turret
+research: Metal-Smelter

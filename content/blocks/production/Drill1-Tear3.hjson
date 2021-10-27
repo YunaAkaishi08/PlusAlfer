@@ -1,0 +1,18 @@
+name: "HighTear MiniDrill"
+type: Drill
+health: 250
+targetable: false
+size: 1
+tier: 9999
+haspower: true
+drillTime: 2.5
+consumes: {
+    power: 3.5
+}
+requirements: [
+    copper/10
+    lead/7
+    Metren/10
+]
+category: production
+research: Drill1-Tear2

@@ -1,0 +1,18 @@
+name: "Armored Battery"
+type: Battery
+size: 1
+health: 500
+hasPower: true
+emptyLightColor: 0000ff
+fullLightColor: ff0000
+consumes: {
+  powerBuffered: 4000
+}
+requirements: [
+    lead/8
+    silicon/8
+    Armord-Metal/10
+    Metal/8
+]
+category: power
+research: battery
